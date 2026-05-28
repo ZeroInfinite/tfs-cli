@@ -38,7 +38,7 @@
     "read": "^1.0.6",
     "request": "2.58.0",
     "shelljs": "^0.5.1",
-    "tmp": "0.0.26",
+    "tmp": "0.2.6",
     "tracer": "0.7.4",
     "validator": "^3.43.0",
     "vso-node-api": "^5.0.0",
